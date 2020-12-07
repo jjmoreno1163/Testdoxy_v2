@@ -96,12 +96,6 @@ APP_DATA appData;
 
 /* TODO:  Add any necessary local functions.
 */
-/**
- * 
- * @param taskNr
- * @param taskIsActive
- * @return 
- */
 bool IsTaskFinished (int taskNr, bool taskIsActive){
     
 }
